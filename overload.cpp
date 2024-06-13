@@ -18,7 +18,7 @@ double add (double a, double b)
 
 int main ()
 {
-  cout << add (10,20) << '\n';
+  cout << add (10,208) << '\n';
   cout << add (1.0,1.5) << '\n';
   cout<< add( 40,30,10)<< '\n';
   return 0;
